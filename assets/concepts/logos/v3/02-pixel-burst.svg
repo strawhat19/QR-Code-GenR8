@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 180" role="img" aria-labelledby="title description">
+  <title id="title">QR Code GenR8 — Pixel Burst</title>
+  <desc id="description">A compact QR module opens into a radiating burst of generated pixels.</desc>
+  <rect x="44" y="44" width="91" height="91" rx="16" fill="#4B287A"/>
+  <rect x="58" y="58" width="24" height="24" rx="3" fill="#FFFFFF"/>
+  <rect x="96" y="58" width="24" height="24" rx="3" fill="#FFFFFF"/>
+  <rect x="58" y="96" width="24" height="24" rx="3" fill="#FFFFFF"/>
+  <rect x="98" y="98" width="14" height="14" rx="2" fill="#F6B75B"/>
+  <rect x="24" y="25" width="10" height="10" rx="2" fill="#F6B75B"/>
+  <rect x="145" y="31" width="12" height="12" rx="2" fill="#F6B75B"/>
+  <rect x="151" y="129" width="10" height="10" rx="2" fill="#F6B75B"/>
+  <rect x="20" y="137" width="12" height="12" rx="2" fill="#F6B75B"/>
+  <text x="190" y="86" fill="#3F2468" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="800" letter-spacing="1">QR CODE</text>
+  <text x="194" y="129" fill="#A16A20" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="700" letter-spacing="3">GenR8</text>
+</svg>

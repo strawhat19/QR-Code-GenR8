@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 180" role="img" aria-labelledby="title description">
+  <title id="title">QR Code GenR8 — Relay R</title>
+  <desc id="description">A white R skeleton carries linked red and blue segments inside a purple pixel tile.</desc>
+  <rect x="25" y="25" width="130" height="130" rx="27" fill="#472894"/>
+  <path d="M59 130V52h33c26 0 26 35 0 35H59m32 0 36 43" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M69 65h25" fill="none" stroke="#FF3B5C" stroke-width="9" stroke-linecap="round"/>
+  <path d="m96 94 22 26" fill="none" stroke="#3D70FF" stroke-width="9" stroke-linecap="round"/>
+  <rect x="122" y="47" width="10" height="10" rx="2" fill="#FF3B5C"/>
+  <rect x="137" y="60" width="8" height="8" rx="2" fill="#FFFFFF"/>
+  <rect x="39" y="137" width="8" height="8" rx="2" fill="#3D70FF"/>
+  <text x="188" y="87" fill="#44278D" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="800" letter-spacing="1">QR CODE</text>
+  <text x="192" y="130" fill="#FF3B5C" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="700" letter-spacing="3">Gen<tspan fill="#3D70FF">R</tspan><tspan fill="#5E3BBE">8</tspan></text>
+</svg>

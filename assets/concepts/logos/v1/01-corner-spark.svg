@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 180" role="img" aria-labelledby="title description">
+  <title id="title">QR Code GenR8 — Corner Spark</title>
+  <desc id="description">Three rounded QR finder corners frame a bright creation spark.</desc>
+  <rect x="25" y="25" width="130" height="130" rx="25" fill="#132C56"/>
+  <path d="M44 70V44h27M109 44h27v27M44 110v26h27" fill="none" stroke="#77E2C7" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="51" y="51" width="12" height="12" rx="2" fill="#77E2C7"/>
+  <rect x="117" y="51" width="12" height="12" rx="2" fill="#77E2C7"/>
+  <rect x="51" y="117" width="12" height="12" rx="2" fill="#77E2C7"/>
+  <path d="m93 67 5 19 19 5-19 5-5 19-5-19-19-5 19-5z" fill="#FFD166"/>
+  <text x="190" y="87" fill="#132C56" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="800" letter-spacing="1">QR CODE</text>
+  <text x="194" y="130" fill="#169F8A" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="700" letter-spacing="3">GenR8</text>
+</svg>

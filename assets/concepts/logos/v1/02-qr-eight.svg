@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 180" role="img" aria-labelledby="title description">
+  <title id="title">QR Code GenR8 — QR Eight</title>
+  <desc id="description">An eight made from two scan modules inside a pixelated QR tile.</desc>
+  <rect x="25" y="25" width="130" height="130" rx="25" fill="#2447B3"/>
+  <rect x="45" y="45" width="27" height="27" rx="5" fill="none" stroke="#FFFFFF" stroke-width="6"/>
+  <rect x="108" y="45" width="27" height="27" rx="5" fill="none" stroke="#FFFFFF" stroke-width="6"/>
+  <rect x="45" y="108" width="27" height="27" rx="5" fill="none" stroke="#FFFFFF" stroke-width="6"/>
+  <path d="M81 65c0-10 7-17 17-17s17 7 17 17-7 16-17 16-17-6-17-16Zm0 49c0-10 7-17 17-17s17 7 17 17-7 17-17 17-17-7-17-17Z" fill="none" stroke="#B6F078" stroke-width="7"/>
+  <text x="190" y="87" fill="#183485" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="800" letter-spacing="1">QR CODE</text>
+  <text x="194" y="130" fill="#5B9C29" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="700" letter-spacing="3">GenR8</text>
+</svg>
