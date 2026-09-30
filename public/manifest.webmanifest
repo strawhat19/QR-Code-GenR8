@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "QR Code GenR8",
+  "short_name": "GenR8",
+  "description": "Create colorful QR codes with your logo, instantly.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#170F29",
+  "theme_color": "#5E3BBE",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

@@ -1,0 +1,44 @@
+.color-picker {
+    &-heading { gap: 8px; display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 10px; }
+    &-heading .field-label { margin-bottom: 0; }
+    &-live-label { gap: 5px; display: inline-flex; align-items: center; color: var(--muted); font-size: 7px; letter-spacing: 1px; }
+    &-live-dot { width: 4px; height: 4px; border-radius: 50%; background: #67c8ae; }
+    &-controls { gap: 13px; display: grid; grid-template-columns: 1fr 1fr; }
+    &-values { gap: 9px; display: flex; flex-direction: column; justify-content: center; }
+}
+.color-saturation-dragger {
+    height: 94px;
+    overflow: hidden;
+    position: relative;
+    border-radius: 9px;
+    touch-action: none;
+    cursor: crosshair;
+    background-image: linear-gradient(to top, #000, transparent), linear-gradient(to right, #fff, transparent);
+}
+.color-saturation-thumb, .color-hue-thumb {
+    width: 12px;
+    height: 12px;
+    display: block;
+    position: absolute;
+    pointer-events: none;
+    border: 2px solid #fff;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .35);
+}
+.color-saturation-thumb { border-radius: 50%; }
+.color-hue-dragger {
+    height: 9px;
+    position: relative;
+    border-radius: 8px;
+    cursor: col-resize;
+    touch-action: none;
+    margin: 4px 2px 1px;
+    background: linear-gradient(to right, #f00, #ff0, #0f0, #0ff, #00f, #f0f, #f00);
+}
+.color-hue-thumb { top: 50%; width: 6px; height: 15px; border-radius: 2px; }
+.color-hex-field { gap: 7px; padding: 6px 8px; display: flex; align-items: center; border-radius: 7px; border: 1px solid var(--line); background: var(--bg); }
+.color-hex-preview { width: 13px; height: 13px; border-radius: 4px; flex-shrink: 0; border: 1px solid rgba(255, 255, 255, .15); }
+.color-hex-input { width: 100%; border: 0; outline: 0; background: transparent; font-size: 10px; font-family: ui-monospace, monospace; }
+.color-hex-field .icon { color: var(--muted); }
+.color-swatches { gap: 8px; display: flex; justify-content: space-between; }
+.color-swatch { width: 17px; height: 17px; padding: 0; display: grid; place-items: center; color: white; border: 1px solid rgba(255, 255, 255, .16); border-radius: 50%; &:hover { transform: scale(1.15); } }

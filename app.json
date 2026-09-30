@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "QR Code GenR8",
+    "slug": "qr-code-genr8",
+    "scheme": "qrgenr8",
+    "version": "1.0.0",
+    "icon": "./assets/app-icon.png",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "platforms": ["web", "ios", "android"],
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "name": "QR Code GenR8",
+      "shortName": "GenR8",
+      "themeColor": "#5E3BBE",
+      "backgroundColor": "#170F29",
+      "favicon": "./public/favicon.svg",
+      "description": "Small code. Endless possibilities. Create a QR code that feels like you."
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.piratechs.qrgenr8"
+    },
+    "android": {
+      "package": "com.piratechs.qrgenr8",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/app-icon.png",
+        "backgroundColor": "#170F29"
+      }
+    }
+  }
+}
